@@ -1,0 +1,12 @@
+../STM32_WPAN/App/custom_app.c:346:6:Custom_Swc_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:400:6:Custom_Lat_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:464:6:Custom_Long_Send_Notification	16	static
+../STM32_WPAN/App/custom_app.c:527:6:Custom_Ec_Send_Notification	8	static
+../STM32_WPAN/App/custom_app.c:142:6:Custom_STM_App_Notification	8	static
+../STM32_WPAN/App/custom_app.c:234:6:Custom_APP_Notification	0	static
+../STM32_WPAN/App/custom_app.c:271:6:Custom_APP_Init	8	static
+../STM32_WPAN/App/custom_app.c:292:6:FSVC_APP_B3_Button_Action	8	static
+../STM32_WPAN/App/custom_app.c:300:6:FSVC_APP_B1_Button_Action	8	static
+../STM32_WPAN/App/custom_app.c:308:6:GPS_LAT_Action	0	static
+../STM32_WPAN/App/custom_app.c:313:6:GPS_LONG_Action	0	static
+../STM32_WPAN/App/custom_app.c:569:6:HAL_TIM_PeriodElapsedCallback	8	static

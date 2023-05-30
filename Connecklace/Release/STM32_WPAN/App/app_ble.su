@@ -1,0 +1,13 @@
+../STM32_WPAN/App/app_ble.c:1209:13:BLE_UserEvtRx	8	static
+../STM32_WPAN/App/app_ble.c:1229:13:BLE_StatusNot	0	static
+../STM32_WPAN/App/app_ble.c:1099:13:Adv_Cancel	8	static
+../STM32_WPAN/App/app_ble.c:1002:13:Adv_Request.constprop	40	static
+../STM32_WPAN/App/app_ble.c:264:6:APP_BLE_Init	120	static
+../STM32_WPAN/App/app_ble.c:409:28:SVCCTL_App_Notification	32	static
+../STM32_WPAN/App/app_ble.c:673:22:APP_BLE_Get_Server_Connection_Status	0	static
+../STM32_WPAN/App/app_ble.c:679:6:APP_BLE_Key_Button3_Action	0	static
+../STM32_WPAN/App/app_ble.c:684:6:APP_BLE_Key_Button1_Action	0	static
+../STM32_WPAN/App/app_ble.c:1188:6:hci_notify_asynch_evt	0	static
+../STM32_WPAN/App/app_ble.c:1195:6:hci_cmd_resp_release	0	static
+../STM32_WPAN/App/app_ble.c:1202:6:hci_cmd_resp_wait	0	static
+../STM32_WPAN/App/app_ble.c:1268:6:SVCCTL_ResumeUserEventFlow	0	static
